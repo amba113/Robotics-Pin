@@ -585,7 +585,6 @@
     )
   )
 
-
   (junction (at 172.72 91.44) (diameter 0) (color 0 0 0 0)
     (uuid 0396f665-daba-4372-a5dc-e919fd70c5ef)
   )
@@ -1016,7 +1015,7 @@
     (uuid 12b39ead-9fb9-47b9-8961-6a55da6228fb)
     (property "Reference" "SW1" (id 0) (at 86.487 67.31 0))
     (property "Value" "SW_SPDT_MSM" (id 1) (at 86.487 69.85 0))
-    (property "Footprint" "" (id 2) (at 86.36 74.93 0)
+    (property "Footprint" "Custom Library:Notch 1 SMD-3P,2.5x6mm DIP Switches ROHS" (id 2) (at 86.36 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.lcsc.com/product-detail/DIP-Switches_Nidec-Copal-Elec-CJS-1201B_C132858.html" (id 3) (at 86.36 74.93 0)
@@ -1230,7 +1229,7 @@
     (property "Value" "7408x2" (id 1) (at 91.44 92.0749 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 87.63 86.36 0)
+    (property "Footprint" "Custom Library:Dual 2-Input Positive-AND Gate" (id 2) (at 87.63 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.lcsc.com/product-detail/Gates_Texas-Instruments-SN74LVC2G08DCUR_C91875.html" (id 3) (at 87.63 86.36 0)
@@ -1371,7 +1370,7 @@
       (reference "#FLG02") (unit 1) (value "PWR_FLAG") (footprint "")
     )
     (path "/aef306da-1895-4311-b114-e39b67ff83ff"
-      (reference "AND1") (unit 1) (value "7408x2") (footprint "")
+      (reference "AND1") (unit 1) (value "7408x2") (footprint "Custom Library:Dual 2-Input Positive-AND Gate")
     )
     (path "/2239a272-4fc2-467b-84f7-d15b7dfe8fb3"
       (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_MPD_BC2003_1x2032")
@@ -1416,7 +1415,7 @@
       (reference "R6") (unit 1) (value "220") (footprint "Resistor_SMD:R_0201_0603Metric")
     )
     (path "/12b39ead-9fb9-47b9-8961-6a55da6228fb"
-      (reference "SW1") (unit 1) (value "SW_SPDT_MSM") (footprint "")
+      (reference "SW1") (unit 1) (value "SW_SPDT_MSM") (footprint "Custom Library:Notch 1 SMD-3P,2.5x6mm DIP Switches ROHS")
     )
     (path "/b71aec2b-2559-4a0c-ac35-eaccff4f47e2"
       (reference "U1") (unit 1) (value "NE555P") (footprint "Package_DIP:DIP-8_W7.62mm")
