@@ -1,0 +1,35 @@
+LED:
+    Footprint:
+        LED_SMD:LED_1206_3216Metric
+    Link:
+        https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-3215UBC_C3646934.html
+        
+Battery:
+    Footprint:
+        Battery:BatteryHolder_MPD_BC2003_1x2032
+    Link:
+        
+Capacitor 1:
+    Footprint:
+        Capacitor_SMD:CP_Elec_6.3x5.4
+    Link:
+        https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-CK1A221M-CRE54_C3001237.html
+
+Resistor:
+    Footprint:
+        Resistor_SMD:R_0201_0603Metric
+    Link:
+        https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html
+        
+Capacitor 2:
+    Footprint:
+        Capacitor_SMD:C_0402_1005Metric
+    Link:
+        https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX7R9BB103_C60133.html
+        
+555:
+    Footprint:
+        Package_DIP:DIP-8_W7.62mm
+    Link:
+        http://www.ti.com/lit/ds/symlink/ne555.pdf
+        
