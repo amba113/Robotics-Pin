@@ -554,6 +554,7 @@
     )
   )
 
+
   (junction (at 109.22 123.19) (diameter 0) (color 0 0 0 0)
     (uuid 07efd389-d63e-43fc-8573-601aa4671bf5)
   )
@@ -894,6 +895,11 @@
   (wire (pts (xy 115.57 139.7) (xy 95.25 139.7))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid fba05ec9-4a09-4acd-98e2-23b9cffd552f)
+  )
+
+  (label "gnd" (at 82.55 93.98 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 812815f4-e138-40f4-b96e-a9da4c788757)
   )
 
   (symbol (lib_id "Device:C_Polarized_US") (at 100.33 132.08 0) (unit 1)
