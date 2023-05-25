@@ -554,7 +554,6 @@
     )
   )
 
-
   (junction (at 109.22 123.19) (diameter 0) (color 0 0 0 0)
     (uuid 07efd389-d63e-43fc-8573-601aa4671bf5)
   )
@@ -1173,7 +1172,7 @@
     (property "Footprint" "Custom Library:2032 Battery Connector" (id 2) (at 87.63 87.63 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 82.55 88.646 90)
+    (property "Datasheet" "https://www.lcsc.com/product-detail/span-style-background-color-ff0-Battery-span-Connectors_MYOUNG-MY-2032-12_C964833.html" (id 3) (at 82.55 88.646 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c1a54b71-a548-4f0e-98e1-d4560c7969c0))
