@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Student\Documents\Robocat Pin\Robocat Pin.kicad_sch</source>
+    <date>5/31/2023 1:22:14 PM</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Robocat Pin.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="BT1">
+      <value>Cell Battery</value>
+      <footprint>Custom Library:2032 Battery Connector</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/span-style-background-color-ff0-Battery-span-Connectors_MYOUNG-MY-2032-12_C964833.html</datasheet>
+      <fields>
+        <field name="LCSC">C964833</field>
+      </fields>
+      <libsource lib="Custom Library" part="Battery_Cell" description="Single-cell battery"/>
+      <property name="LCSC" value="C964833"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd90f80d-00d2-4af0-b308-bfdcf30d2865</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX7R9BB103_C60133.html</datasheet>
+      <fields>
+        <field name="LCSC">C60133</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C60133"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55b53898-a21c-4ccf-bba8-2695f8cf215f</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>220uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.4</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-RVT1A221M0605_C72494.html</datasheet>
+      <fields>
+        <field name="LCSC">C72494</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="LCSC" value="C72494"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa6d0943-e525-47c6-9d26-b4101506d87d</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>220uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.4</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-RVT1A221M0605_C72494.html</datasheet>
+      <fields>
+        <field name="LCSC">C72494</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="LCSC" value="C72494"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88c92d63-efef-41e2-a2f5-fdb6efd982f1</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>220uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.4</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-RVT1A221M0605_C72494.html</datasheet>
+      <fields>
+        <field name="LCSC">C72494</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="LCSC" value="C72494"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abc338d9-a71e-4449-8ae4-09f971d23c87</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>220uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.4</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-RVT1A221M0605_C72494.html</datasheet>
+      <fields>
+        <field name="LCSC">C72494</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="LCSC" value="C72494"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20bf0a98-9728-4edc-8119-e82a8a85ffef</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>220uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_6.3x5.4</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_ROQANG-RVT1A221M0605_C72494.html</datasheet>
+      <fields>
+        <field name="LCSC">C72494</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_US" description="Polarized capacitor, US symbol"/>
+      <property name="LCSC" value="C72494"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>372ccd31-ffa9-4f85-ae20-d31c485542c4</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>Blue LED</value>
+      <footprint>Custom Library:1.3x3.2mm LED</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-3215UBC_C3646934.html</datasheet>
+      <fields>
+        <field name="LCSC">C3646934</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C3646934"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f35b2a4-c774-457e-b5c9-0e4e4dac493a</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>Blue LED</value>
+      <footprint>Custom Library:1.3x3.2mm LED</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-3215UBC_C3646934.html</datasheet>
+      <fields>
+        <field name="LCSC">C3646934</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C3646934"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a96120e9-d7bd-4936-9b8e-1051e9751107</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <fields>
+        <field name="LCSC">C4355165</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LCSC" value="C4355165"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0cdf44c-3ee0-432d-ac41-707d8e8f7e04</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <fields>
+        <field name="LCSC">C4355165</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LCSC" value="C4355165"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff6e7486-7ddb-409a-94ed-d2c8c2ddd656</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <fields>
+        <field name="LCSC">C4355165</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LCSC" value="C4355165"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ff8f1777-bcc1-4e6f-a93a-118471c2fab9</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <fields>
+        <field name="LCSC">C4355165</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LCSC" value="C4355165"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>850408e7-af95-4b93-8c60-e02137c0e0f8</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <fields>
+        <field name="LCSC">C4355165</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LCSC" value="C4355165"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4de0703-6559-40fb-84a5-859675d1bafd</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>220</value>
+      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <fields>
+        <field name="LCSC">C4355165</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <property name="LCSC" value="C4355165"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>afcb731c-45f0-4ce4-bf85-0f9916ab88cc</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>DP3T Switch</value>
+      <footprint>Custom Library:DP3T Slide Switch</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Slide-Switches_C-K-JS203011JAQN_C2689537.html</datasheet>
+      <fields>
+        <field name="LCSC">C2689537</field>
+      </fields>
+      <libsource lib="Switch" part="SW_DP3T" description="Switch, three position, dual pole triple throw, 3 position switch, SP3T"/>
+      <property name="LCSC" value="C2689537"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>997720df-b00e-4f4d-8e62-9c248507c101 5baab132-5b70-40e4-b34f-5668564989d0</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>555 Integrated Circuit</value>
+      <footprint>Custom Library:LM555CM</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Timers-Clock-Oscillators_HGSEMI-LM555CMM-TR_C5160086.html</datasheet>
+      <fields>
+        <field name="LCSC">C5160086</field>
+      </fields>
+      <libsource lib="Timer" part="NA555P" description="Precision Timers, 555 compatible, PDIP-8"/>
+      <property name="LCSC" value="C5160086"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b4d3a25-1c34-4170-b4dc-82d23ede5625</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Custom Library" part="Battery_Cell">
+      <description>Single-cell battery</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">BT1</field>
+        <field name="Value">Battery_Cell</field>
+        <field name="Footprint">Custom Library:2032 Battery Connector</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="-" type="passive"/>
+        <pin num="2" name="+" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_US">
+      <description>Polarized capacitor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_DP3T">
+      <description>Switch, three position, dual pole triple throw, 3 position switch, SP3T</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SW*</fp>
+        <fp>DP3T*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_DP3T</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Timer" part="NA555P">
+      <description>Precision Timers, 555 compatible, PDIP-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/ne555.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">NA555P</field>
+        <field name="Footprint">Package_DIP:DIP-8_W7.62mm</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/ne555.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="TR" type="input"/>
+        <pin num="3" name="Q" type="output"/>
+        <pin num="4" name="R" type="input"/>
+        <pin num="5" name="CV" type="input"/>
+        <pin num="6" name="THR" type="input"/>
+        <pin num="7" name="DIS" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Custom Library">
+      <uri>C:\Users\Student\Documents\Robocat Pin/Custom Library.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="Timer">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Timer.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/gnd">
+      <node ref="BT1" pin="1" pinfunction="-" pintype="passive"/>
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="2" name="Net-(BT1-Pad2)">
+      <node ref="BT1" pin="2" pinfunction="+" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="CV" pintype="input"/>
+    </net>
+    <net code="4" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="TR" pintype="input"/>
+      <node ref="U1" pin="6" pinfunction="THR" pintype="input"/>
+    </net>
+    <net code="5" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="R" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="8" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="DIS" pintype="input"/>
+    </net>
+    <net code="9" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="SW1" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="Q" pintype="output"/>
+    </net>
+    <net code="13" name="unconnected-(SW1-Pad2)">
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="14" name="unconnected-(SW1-Pad6)">
+      <node ref="SW1" pin="6" pinfunction="6" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
