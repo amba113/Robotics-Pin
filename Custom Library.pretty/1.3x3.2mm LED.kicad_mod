@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5220e1d5-4238-4fd8-88ff-da54cdb3e2d0)
   )
-  (fp_text value "1.3x3.2mm LED" (at -10.16 -6.985 unlocked) (layer "F.Fab")
+  (fp_text value "1.3x3.2mm LED 2P" (at -10.16 -6.985 unlocked) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d2bad026-4b81-4959-ae6e-d64e74513103)
   )
