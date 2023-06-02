@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\Student\Documents\Robocat Pin\Robocat Pin.kicad_sch</source>
-    <date>5/31/2023 1:22:14 PM</date>
+    <date>6/2/2023 1:06:51 PM</date>
     <tool>Eeschema (6.0.5)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -124,13 +124,13 @@
     </comp>
     <comp ref="D1">
       <value>Blue LED</value>
-      <footprint>Custom Library:1.3x3.2mm LED</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-3215UBC_C3646934.html</datasheet>
+      <footprint>Custom Library:1206 LED</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_MEIHUA-MHT151UBCT_C559121.html</datasheet>
       <fields>
-        <field name="LCSC">C3646934</field>
+        <field name="LCSC">C559121</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="LCSC" value="C3646934"/>
+      <property name="LCSC" value="C559121"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -138,13 +138,13 @@
     </comp>
     <comp ref="D2">
       <value>Blue LED</value>
-      <footprint>Custom Library:1.3x3.2mm LED</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_XINGLIGHT-XL-3215UBC_C3646934.html</datasheet>
+      <footprint>Custom Library:1206 LED</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_MEIHUA-MHT151UBCT_C559121.html</datasheet>
       <fields>
-        <field name="LCSC">C3646934</field>
+        <field name="LCSC">C559121</field>
       </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
-      <property name="LCSC" value="C3646934"/>
+      <property name="LCSC" value="C559121"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -152,13 +152,13 @@
     </comp>
     <comp ref="R1">
       <value>220</value>
-      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <footprint>Custom Library:0603 Resistor</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF2200T5E_C22962.html</datasheet>
       <fields>
-        <field name="LCSC">C4355165</field>
+        <field name="LCSC">C22962</field>
       </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
-      <property name="LCSC" value="C4355165"/>
+      <property name="LCSC" value="C22962"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -166,13 +166,13 @@
     </comp>
     <comp ref="R2">
       <value>220</value>
-      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <footprint>Custom Library:0603 Resistor</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF2200T5E_C22962.html</datasheet>
       <fields>
-        <field name="LCSC">C4355165</field>
+        <field name="LCSC">C22962</field>
       </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
-      <property name="LCSC" value="C4355165"/>
+      <property name="LCSC" value="C22962"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -180,13 +180,13 @@
     </comp>
     <comp ref="R3">
       <value>220</value>
-      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <footprint>Custom Library:0603 Resistor</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF2200T5E_C22962.html</datasheet>
       <fields>
-        <field name="LCSC">C4355165</field>
+        <field name="LCSC">C22962</field>
       </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
-      <property name="LCSC" value="C4355165"/>
+      <property name="LCSC" value="C22962"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -194,13 +194,13 @@
     </comp>
     <comp ref="R4">
       <value>220</value>
-      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <footprint>Custom Library:0603 Resistor</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF2200T5E_C22962.html</datasheet>
       <fields>
-        <field name="LCSC">C4355165</field>
+        <field name="LCSC">C22962</field>
       </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
-      <property name="LCSC" value="C4355165"/>
+      <property name="LCSC" value="C22962"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -208,13 +208,13 @@
     </comp>
     <comp ref="R5">
       <value>220</value>
-      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <footprint>Custom Library:0603 Resistor</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF2200T5E_C22962.html</datasheet>
       <fields>
-        <field name="LCSC">C4355165</field>
+        <field name="LCSC">C22962</field>
       </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
-      <property name="LCSC" value="C4355165"/>
+      <property name="LCSC" value="C22962"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -222,13 +222,13 @@
     </comp>
     <comp ref="R6">
       <value>220</value>
-      <footprint>Resistor_SMD:R_0201_0603Metric</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_KAMAYA-RGC1-16C221FTP_C4355165.html</datasheet>
+      <footprint>Custom Library:0603 Resistor</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF2200T5E_C22962.html</datasheet>
       <fields>
-        <field name="LCSC">C4355165</field>
+        <field name="LCSC">C22962</field>
       </fields>
       <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
-      <property name="LCSC" value="C4355165"/>
+      <property name="LCSC" value="C22962"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -250,13 +250,13 @@
     </comp>
     <comp ref="U1">
       <value>555 Integrated Circuit</value>
-      <footprint>Custom Library:LM555CM</footprint>
-      <datasheet>https://www.lcsc.com/product-detail/Timers-Clock-Oscillators_HGSEMI-LM555CMM-TR_C5160086.html</datasheet>
+      <footprint>Custom Library:SOIC - 8 555</footprint>
+      <datasheet>https://www.lcsc.com/product-detail/Timers-Clock-Oscillators_Texas-Instruments-LM555CMX-NOPB_C543060.html</datasheet>
       <fields>
-        <field name="LCSC">C5160086</field>
+        <field name="LCSC">C543060</field>
       </fields>
       <libsource lib="Timer" part="NA555P" description="Precision Timers, 555 compatible, PDIP-8"/>
-      <property name="LCSC" value="C5160086"/>
+      <property name="LCSC" value="C543060"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Robocat Pin.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
