@@ -1,19 +1,19 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-"BT1","Cell Battery","2032 Battery Connector",-71.551800,-52.984400,-90.000000,bottom
-"C1","10nF","C_0402_1005Metric",-57.861200,-51.231800,-90.000000,bottom
-"C2","220uF","CP_Elec_6.3x5.4",-38.709600,-72.110600,90.000000,bottom
-"C3","220uF","CP_Elec_6.3x5.4",-52.959000,-74.930000,90.000000,bottom
-"C4","220uF","CP_Elec_6.3x5.4",-30.302200,-48.971200,0.000000,bottom
-"C5","220uF","CP_Elec_6.3x5.4",-29.108400,-61.798200,0.000000,bottom
-"C6","220uF","CP_Elec_6.3x5.4",-66.446400,-71.247000,180.000000,bottom
-"D1","Blue LED","1206 LED",-47.625000,-47.625000,180.000000,bottom
-"D2","Blue LED","1206 LED",-57.769760,-47.625000,180.000000,bottom
-"R1","220","0603 Resistor",-37.064982,-42.351664,0.000000,bottom
-"R2","220","0603 Resistor",-37.191982,-36.585864,-90.000000,bottom
-"R3","220","0603 Resistor",-39.020782,-34.020464,-90.000000,bottom
-"R4","220","0603 Resistor",-35.500382,-38.795664,0.000000,bottom
-"R5","220","0603 Resistor",-49.885600,-50.825400,90.000000,bottom
-"R6","220","0603 Resistor",-52.400200,-50.749200,90.000000,bottom
-"REF**","Pin Back","Pin Back",-52.730400,-36.195000,180.000000,bottom
-"SW1","DP3T Switch","DP3T Slide Switch",-33.629600,-34.112200,45.000000,bottom
-"U1","555 Integrated Circuit","SOIC - 8 555",-52.247800,-58.572400,0.000000,bottom
+BT1,Cell Battery,2032 Battery Connector,71.5518,-52.9844,-90,bottom
+C1,10nF,C_0402_1005Metric,57.8612,-51.2318,-90,bottom
+C2,220uF,CP_Elec_6.3x5.4,38.7096,-72.1106,90,bottom
+C3,220uF,CP_Elec_6.3x5.4,52.959,-74.93,90,bottom
+C4,220uF,CP_Elec_6.3x5.4,30.3022,-48.9712,0,bottom
+C5,220uF,CP_Elec_6.3x5.4,29.1084,-61.7982,0,bottom
+C6,220uF,CP_Elec_6.3x5.4,66.4464,-71.247,180,bottom
+D1,Blue LED,1206 LED,47.625,-47.625,180,bottom
+D2,Blue LED,1206 LED,57.76976,-47.625,180,bottom
+R1,220,0603 Resistor,37.064982,-42.351664,0,bottom
+R2,220,0603 Resistor,37.191982,-36.585864,-90,bottom
+R3,220,0603 Resistor,39.020782,-34.020464,-90,bottom
+R4,220,0603 Resistor,35.500382,-38.795664,0,bottom
+R5,220,0603 Resistor,49.8856,-50.8254,90,bottom
+R6,220,0603 Resistor,52.4002,-50.7492,90,bottom
+REF**,Pin Back,Pin Back,52.7304,-36.195,180,bottom
+SW1,DP3T Switch,DP3T Slide Switch,33.6296,-34.1122,45,bottom
+U1,555 Integrated Circuit,SOIC - 8 555,52.2478,-58.5724,0,bottom
